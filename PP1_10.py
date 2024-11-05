@@ -38,9 +38,10 @@ print(user)
 
 #Do not alter the following code
 #Comment out the following code when running your tests
-
+'''
 q1()
 q2()
 q3()
 q4()
 q5()
+'''
